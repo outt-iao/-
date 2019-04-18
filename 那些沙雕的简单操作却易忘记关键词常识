@@ -1,0 +1,5 @@
+启动文件夹（用于开机自启）
+目录：“C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp”
+记住了别忘记了，往里面放快捷方式就可以开机自启
+还有一处开机自启的管理在 win＋r 输入 “msconfig”--查看
+同一处但是启动方式不一样，在任务栏管理，可以管理那些自己软件。
