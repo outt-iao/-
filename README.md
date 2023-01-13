@@ -1,2 +1,2 @@
 # note
-index.html 自动跳转网页用的
+index.html \html网页跳转源代码
